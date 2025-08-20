@@ -12,7 +12,7 @@ My journey in computer science & engineering has led me to develop a passion for
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Fullstack Web development          | <a href="https://google.com">E-Farm</a>|
+| Fullstack Web development          | <a href="https://github.com/anselem7/E-Farm">E-Farm</a>|
 
 
 
@@ -55,4 +55,4 @@ My journey in computer science & engineering has led me to develop a passion for
 ## Projects
 - Log parser simulation
 - Home Lab
-- Efarm
+-  <a href="https://github.com/anselem7/E-Farm">E-Farm</a>

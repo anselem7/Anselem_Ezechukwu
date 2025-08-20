@@ -8,6 +8,14 @@ I am a recent graduate with an interest in technology and a dedication to solvin
 
 My journey in computer science & engineering has led me to develop a passion for cybersecurity, and with hands-on experience in networking, I am eager to transition into this field, specifically aiming to land an entry-level role e.g. in a Security Operations Center (SOC) as a Tier 1 Analyst.
 
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Fullstack Web development          | <a href="https://google.com">E-Farm</a>|
+
+
+
 
 ## TOOLS
 

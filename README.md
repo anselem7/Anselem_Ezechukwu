@@ -13,7 +13,7 @@ My journey in computer science & engineering has led me to develop a passion for
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Fullstack Web development          | <a href="https://github.com/anselem7/E-Farm">E-Farm</a>|
-
+| Home Lab          | <a href="https://github.com/anselem7/Malware-Analysis-Penetration-Testing-Home-Lab">Malware_Analysis&Penetration_Testing(Home_Lab)</a>|
 
 
 
@@ -54,5 +54,5 @@ My journey in computer science & engineering has led me to develop a passion for
 
 ## Projects
 - Log parser simulation
-- Home Lab
+- <a href="https://github.com/anselem7/Malware-Analysis-Penetration-Testing-Home-Lab">Malware_Analysis&Penetration_Testing(Home_Lab)</a>
 -  <a href="https://github.com/anselem7/E-Farm">E-Farm</a>

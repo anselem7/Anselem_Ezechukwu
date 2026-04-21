@@ -2,11 +2,11 @@
 <a href="https://linkedin.com/in/anselem-ezechukwu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate with an interest in technology and a dedication to solving complex problems. Currently, I build projects that focus on log analysis, threat detection, and system hardening.
+I am a recent graduate with an interest in Cybersecurity and a dedication to solving complex problems. Currently, I build projects that focus on log analysis, threat detection, and system hardening.
 
 ## Objective
 
-My journey in computer science & engineering has led me to develop a passion for cybersecurity, and with hands-on experience in networking, I am eager to transition into this field, specifically aiming to land an entry-level role e.g. in a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science & engineering has led me to develop a passion for cybersecurity. I am eager to transition into this field, specifically aiming to land an entry-level role in this field.
 
 ## Skills
 

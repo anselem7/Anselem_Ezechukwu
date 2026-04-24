@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/anselem-ezechukwu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate with an interest in Cybersecurity and a dedication to solving complex problems. Currently, I build projects that focus on log analysis, threat detection, and system hardening.
+I am a Computer engineer with an interest in Cybersecurity and a dedication to solving complex problems. Currently, I build projects that focus on log analysis, threat detection, and system hardening.
 
 ## Objective
 

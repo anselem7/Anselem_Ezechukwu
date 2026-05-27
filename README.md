@@ -14,7 +14,7 @@ My journey in computer science & engineering has led me to develop a passion for
 |-----------------------------------------------|----------------------------|
 | Fullstack Web development          | <a href="https://github.com/anselem7/E-Farm">E-Farm</a>|
 | Cybersecurity          | <a href="https://github.com/anselem7/Malware-Analysis-Penetration-Testing-Home-Lab">Malware_Analysis&Penetration_Testing(Home_Lab)</a>|
-| Log Analysis         | <a href="https://github.com/anselem7/Log_parser">Log_parser</a>|
+| Cloudsecurity         | <a href="https://github.com/anselem7/Log_parser">Log_parser</a>|
 
 
 

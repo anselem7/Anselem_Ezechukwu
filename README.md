@@ -61,5 +61,5 @@ My journey in computer science & engineering has led me to develop a passion for
 
 ## Projects
 - <a href="https://github.com/anselem7/Log_parser">Log_parser</a>
-- <a href="https://github.com/anselem7/Malware-Analysis-Penetration-Testing-Home-Lab">Malware_Analysis&Penetration_Testing(Home_Lab)</a>
+- <a href="https://github.com/anselem7/Malware-Analysis-Penetration-Testing-Home-Lab">Malware_Analysis&Penetration_Testing (Home_Lab)</a>
 -  <a href="https://github.com/anselem7/E-Farm">E-Farm</a>
